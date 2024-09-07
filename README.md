@@ -1,0 +1,2 @@
+# GenAI
+Basic GenAI Project
